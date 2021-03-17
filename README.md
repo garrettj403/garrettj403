@@ -6,10 +6,10 @@ My software projects:
 
 - Related to RF engineering:
     - [CZT](https://github.com/garrettj403/CZT): calculate the Chirp Z-Transform, a flexible version of the Fast Fourier Transform
-    - [GradientModel](https://github.com/garrettj403/GradientModel): calculate the effective conductivity of rough metallic surfaces using the Gradient Model
+    - [GradientModel](https://github.com/garrettj403/GradientModel): calculate the effective conductivity of a rough metallic surface using the Gradient Model
     - [Mattis-Bardeen](https://github.com/garrettj403/Mattis-Bardeen): calculate the surface impedance of a superconductor using Mattis-Bardeen theory
-    - [Waveguide](https://github.com/garrettj403/Waveguide): calculate the various properties of rectangular waveguides, including dielectric and conductor loss
-    - [RF-tools](https://github.com/garrettj403/RF-tools): various tools for RF engineering, including command line tools to quickly calculate the properties of waveguides
+    - [Waveguide](https://github.com/garrettj403/Waveguide): calculate the various properties of rectangular waveguides, e.g., phase constant, conductor loss, etc.
+    - [RF-tools](https://github.com/garrettj403/RF-tools): various tools for RF engineering, including useful command line tools
 - Related to radio astronomy:
     - [QMix](https://github.com/garrettj403/QMix): simulate the behavior of SIS tunnel junctions
     - [GaussOpt](https://github.com/garrettj403/GaussOpt): Gaussian beam analysis for quasi-optical systems
