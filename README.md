@@ -15,6 +15,3 @@ My software projects:
     - [RF-tools](https://github.com/garrettj403/RF-tools): various tools for RF engineering, including useful command line tools
 - Other projects:
     - [SciencePlots](https://github.com/garrettj403/SciencePlots): format your Python/Matplotlib plots for scientific papers, theses and presentations
-
-
-[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=garrettj403)](https://github.com/garrettj403/github-readme-stats)
