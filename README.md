@@ -1,6 +1,6 @@
 Hi there 👋
 
-I am a [Submillimeter Array (SMA)](https://www.cfa.harvard.edu/sma/) Fellow at the [Harvard & Smithsonian Center for Astrophysics](https://www.cfa.harvard.edu/). My research is focused on coherent submillimeter-wave receivers for radio astronomy.
+I am a [Submillimeter Array (SMA)](https://www.cfa.harvard.edu/sma/) Fellow at the [Harvard & Smithsonian Center for Astrophysics](https://www.cfa.harvard.edu/). My research is focused on superconducting detectors for sub-millimeter wave radio astronomy.
 
 My software projects:
 
