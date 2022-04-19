@@ -6,7 +6,6 @@ My software projects:
 
 - Related to radio astronomy:
     - [QMix](https://github.com/garrettj403/QMix): simulate quantum tunnneling in SIS junctions
-    - [GaussOpt](https://github.com/garrettj403/GaussOpt): Gaussian beam analysis for quasi-optical systems
 - Related to RF engineering:
     - [DispersionTransform](https://github.com/garrettj403/DispersionTransform): transform dispersive waveguide data between the frequency- and distance-domains
     - [CZT](https://github.com/garrettj403/CZT): calculate the Chirp Z-Transform, a flexible implementation of the Fast Fourier Transform
