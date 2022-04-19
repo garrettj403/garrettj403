@@ -7,7 +7,7 @@ My software projects:
 - Related to radio astronomy:
     - [QMix](https://github.com/garrettj403/QMix): simulate quantum tunnneling in SIS junctions
 - Related to RF engineering:
-    - [DispersionTransform](https://github.com/garrettj403/DispersionTransform): transform dispersive waveguide data between the frequency- and distance-domains
+    - [DispersionTransform](https://github.com/garrettj403/DispersionTransform): map dispersive waveguide data from the frequency- to distance-domain
     - [CZT](https://github.com/garrettj403/CZT): calculate the Chirp Z-Transform, a flexible implementation of the Fast Fourier Transform
     - [GradientModel](https://github.com/garrettj403/GradientModel): calculate the effective conductivity of a rough metallic surface using the Gradient Model
     - [Mattis-Bardeen](https://github.com/garrettj403/Mattis-Bardeen): calculate the surface impedance of a superconductor using Mattis-Bardeen theory
