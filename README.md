@@ -9,8 +9,6 @@ Here are some of my software projects:
     - [CZT](https://github.com/garrettj403/CZT): calculate the Chirp Z-Transform, a flexible implementation of the Fast Fourier Transform
     - [GradientModel](https://github.com/garrettj403/GradientModel): calculate the effective conductivity of a rough metallic surface using the Gradient Model
     - [Mattis-Bardeen](https://github.com/garrettj403/Mattis-Bardeen): calculate the surface impedance of a superconductor using Mattis-Bardeen theory
-    - [Waveguide](https://github.com/garrettj403/Waveguide): calculate the various properties of rectangular waveguides, e.g., phase constant, conductor loss, etc.
-    - [RF-tools](https://github.com/garrettj403/RF-tools): various tools for RF engineering, including useful command line tools
 - Radio astronomy:
     - [QMix](https://github.com/garrettj403/QMix): simulate quantum tunnneling in SIS junctions
 - Other projects:
